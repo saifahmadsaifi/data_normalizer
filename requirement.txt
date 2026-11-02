@@ -1,0 +1,2 @@
+# Nothing to install. This project only uses the Python standard library.
+# (verify_output.py, the tests and everything else need no extra packages.)
