@@ -1,0 +1,34 @@
+ISSUES LOG - every value dropped or adjusted by validation
+Rows: 24 | live LLM calls: 10 | resumed from checkpoint: 14 | failed rows: 0
+Token usage this run: 10 calls | prompt 59186 | output 5730 | thinking 0 tokens
+==============================================================================
+
+[11/24] Apple iPhone 17 | 256 GB | New Line
+  - prompt trimmed from ~30337 to ~23419 characters to fit the provider's per-minute token limit; removed: terms for other customer types (FirstNet/Business), long device lists
+
+[12/24] Apple iPhone 17 | 256 GB | Upgrade
+  - prompt trimmed from ~30337 to ~23419 characters to fit the provider's per-minute token limit; removed: terms for other customer types (FirstNet/Business), long device lists
+
+[13/24] Apple iPhone 17 | 512 GB | New Line
+  - prompt trimmed from ~30339 to ~23421 characters to fit the provider's per-minute token limit; removed: terms for other customer types (FirstNet/Business), long device lists
+
+[14/24] Apple iPhone 17 | 512 GB | Upgrade
+  - prompt trimmed from ~30339 to ~23421 characters to fit the provider's per-minute token limit; removed: terms for other customer types (FirstNet/Business), long device lists
+
+[19/24] Apple iPhone 18 Pro Max | 256 GB | New Line
+  - prompt trimmed from ~25445 to ~23034 characters to fit the provider's per-minute token limit; removed: long device lists
+
+[20/24] Apple iPhone 18 Pro Max | 256 GB | Upgrade
+  - prompt trimmed from ~25445 to ~23034 characters to fit the provider's per-minute token limit; removed: long device lists
+
+[21/24] Apple iPhone 18 Pro Max | 512 GB | New Line
+  - prompt trimmed from ~25445 to ~23034 characters to fit the provider's per-minute token limit; removed: long device lists
+
+[22/24] Apple iPhone 18 Pro Max | 512 GB | Upgrade
+  - prompt trimmed from ~25445 to ~23034 characters to fit the provider's per-minute token limit; removed: long device lists
+
+[23/24] Apple iPhone 18 Pro Max | 1 TB | New Line
+  - prompt trimmed from ~25445 to ~23034 characters to fit the provider's per-minute token limit; removed: long device lists
+
+[24/24] Apple iPhone 18 Pro Max | 1 TB | Upgrade
+  - prompt trimmed from ~25445 to ~23034 characters to fit the provider's per-minute token limit; removed: long device lists
